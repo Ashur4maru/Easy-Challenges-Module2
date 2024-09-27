@@ -43,3 +43,4 @@ switch (maand) {
     break;
   default:
 }
+process.exit();
